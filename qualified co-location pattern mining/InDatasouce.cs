@@ -11,7 +11,7 @@ namespace qualified_co_location_pattern_mining
 
         //  void output(string file);//输出文件
         List<string> inputconfig(string file);//读取输入参数文件
-        List<string> inputdata(string file);//读取输入数据文件
+        List<string> inputdata(string file);//读取输入数据文件,测试git
 
     }
 }
